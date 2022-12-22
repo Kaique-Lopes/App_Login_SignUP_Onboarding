@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1E1E909C2953E60F003D107A /* CustomTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E1E909B2953E60F003D107A /* CustomTextField.swift */; };
 		1E67336F295141E3001B11E6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E67336E295141E3001B11E6 /* AppDelegate.swift */; };
 		1E673371295141E3001B11E6 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E673370295141E3001B11E6 /* SceneDelegate.swift */; };
 		1E673373295141E3001B11E6 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E673372295141E3001B11E6 /* ViewController.swift */; };
@@ -18,6 +19,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1E1E909B2953E60F003D107A /* CustomTextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTextField.swift; sourceTree = "<group>"; };
 		1E67336B295141E3001B11E6 /* App_Login_SignUP_Onboarding.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = App_Login_SignUP_Onboarding.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1E67336E295141E3001B11E6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		1E673370295141E3001B11E6 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -88,6 +90,7 @@
 		1E673386295145B9001B11E6 /* View */ = {
 			isa = PBXGroup;
 			children = (
+				1E1E909B2953E60F003D107A /* CustomTextField.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -194,6 +197,7 @@
 			files = (
 				1E67338E29514A8F001B11E6 /* Extensions.swift in Sources */,
 				1E673373295141E3001B11E6 /* ViewController.swift in Sources */,
+				1E1E909C2953E60F003D107A /* CustomTextField.swift in Sources */,
 				1E67338C2951461D001B11E6 /* LoginController.swift in Sources */,
 				1E67336F295141E3001B11E6 /* AppDelegate.swift in Sources */,
 				1E673371295141E3001B11E6 /* SceneDelegate.swift in Sources */,
